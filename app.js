@@ -2,7 +2,7 @@
 let amigos = []; //declara variable amigos
 let amigosSorteados = new Set();
 
-function agregarAmigo () {
+function agregarAmigo() {
     let input = document.getElementById("amigo");
     let amigo = input.value.trim();
 
@@ -25,9 +25,9 @@ function agregarAmigo () {
     mostrarLista();
 }
 
-function mostrarLista(){
-    let lista = DocumentTimeline.getElementById("listaAmigos");
-    lista.innerHtml ="";
+function mostrarLista() {
+    let lista = document.getElementById("listaAmigos");
+    lista.innerHtml = "";
     amigos.forEach(amigo => {
         let li =document.createElement("li");
         li.textContent = amigo;
