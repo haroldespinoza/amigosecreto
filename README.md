@@ -9,3 +9,6 @@ La utilidad de la app, aunque básica, es qe permite al desarrollador poner en p
 Junto al desarrollo de la programación, con el uso de variables, funciones, condicionales, alertas, arrays, entre otras, es una excelente práctica para el uso de github.
 
 Esta versión es desarrollada por Harold Espinoza Rivas, estudiante del programa ONE - Alura Latam
+
+
+https://github.com/haroldespinoza/amigosecreto/blob/main/1.%20gitbash_seleccion%20directorio%20local.png
