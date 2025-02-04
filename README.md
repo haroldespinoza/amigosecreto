@@ -12,5 +12,4 @@ Esta versión es desarrollada por Harold Espinoza Rivas, estudiante del programa
 
 # Algunas capturas del proceso de utilización de github
 
-
-https://github.com/haroldespinoza/amigosecreto/blob/main/1.%20gitbash_seleccion%20directorio%20local.png
+![Image](https://github.com/user-attachments/assets/017280d1-8f1e-47e6-85a3-8ba91414edbb)
