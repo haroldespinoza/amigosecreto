@@ -16,7 +16,7 @@ Esta versión es desarrollada por Harold Espinoza Rivas, estudiante del programa
    
 ![Image](https://github.com/user-attachments/assets/017280d1-8f1e-47e6-85a3-8ba91414edbb)
 
-3. Inicialización del repositorio local
+2. Inicialización del repositorio local
    
  ![Image](https://github.com/user-attachments/assets/15718204-b46a-4271-b060-3525f3d54311)
 
