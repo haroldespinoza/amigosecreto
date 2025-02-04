@@ -10,20 +10,22 @@ function agregarAmigo() {
     }
 
     if (amigo === "") {
-        alert("Por favor, ingresa un nombre válido.");
+        alert("Por favor, ingresa un nombre válido."); //muestra mensaje de alerta si el campo esta vacio y detiene la función
         return;
     }
 
     if (!esTextoValido(amigo)) {
         alert("Solo se permiten letras y espacios. No ingreses números o caracteres especiales.");
-        return;
+        return; // alerta de ingreso de nombres
     }
  amigos.push(amigo);
-    input.value = "";
-    mostrarLista();
+    input.value = ""; //limpia el campo de texto
+    mostrarLista(); // llama a la función mostrar lista
 }
+// esta función muestra la lista de amigos que han sido ingresados.
+
 function mostrarLista() {
-    let lista = document.getElementById("listaAmigos");
+    let lista = document.getElementById("listaAmigos"); 
     lista.innerHTML = "";
     amigos.forEach(amigo => {
         let li = document.createElement("li");
@@ -33,6 +35,8 @@ function mostrarLista() {
     });
 }
 
+// permite hacer el sorteo de los amigos, hasta que todos hayan sido sorteados
+//muestra el nombre del amigo sorteado
 function sortearAmigo() {
     let amigosDisponibles = amigos.filter(amigo => !amigosSorteados.has(amigo));
     
