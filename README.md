@@ -38,12 +38,15 @@ de JS para poner en operación la app.
 
 4. Alerta de ingreso de nombre válido, sin caracteres especiales ni números.
 
+![Image](https://github.com/user-attachments/assets/1a75ddeb-9f42-4f59-869c-472f64a3062b)
+
 
 5. Captura muestra el amigo sorteado de la lista previamente ingresada.
 
+![Image](https://github.com/user-attachments/assets/f954fddb-94c1-4b92-9c79-8abc32e6a34c)
 
 6. Captura muestra alerta indicando que se han sorteado todos los amigos de la lista.
-
+![Image](https://github.com/user-attachments/assets/a906185a-d883-4b9a-b799-0a871d21ad84)
 
 ## Posibles mejoras.
 -- Incluir una lista de los amigos ya sorteados.
