@@ -10,6 +10,10 @@ Junto al desarrollo de la programación, con el uso de variables, funciones, con
 
 Esta versión es desarrollada por Harold Espinoza Rivas, estudiante del programa ONE - Alura Latam
 
-# Algunas capturas del proceso de utilización de github
+## Algunas capturas del proceso de utilización de github
 
 ![Image](https://github.com/user-attachments/assets/017280d1-8f1e-47e6-85a3-8ba91414edbb)
+1. selección de repositorio local
+
+
+2. 
