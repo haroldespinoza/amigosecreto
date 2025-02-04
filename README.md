@@ -10,5 +10,7 @@ Junto al desarrollo de la programación, con el uso de variables, funciones, con
 
 Esta versión es desarrollada por Harold Espinoza Rivas, estudiante del programa ONE - Alura Latam
 
+# Algunas capturas del proceso de utilización de github
+
 
 https://github.com/haroldespinoza/amigosecreto/blob/main/1.%20gitbash_seleccion%20directorio%20local.png
