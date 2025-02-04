@@ -13,8 +13,10 @@ Esta versión es desarrollada por Harold Espinoza Rivas, estudiante del programa
 ## Algunas capturas del proceso de utilización de github
 
 1. selección de repositorio local
+   
 ![Image](https://github.com/user-attachments/assets/017280d1-8f1e-47e6-85a3-8ba91414edbb)
 
-2. Inicialización del repositorio local
+3. Inicialización del repositorio local
+   
  ![Image](https://github.com/user-attachments/assets/15718204-b46a-4271-b060-3525f3d54311)
 
