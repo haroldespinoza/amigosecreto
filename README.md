@@ -30,5 +30,7 @@ de JS para poner en operación la app.
 
 1. Agregar amigos
    
-
-4. 
+   ![Image](https://github.com/user-attachments/assets/4955e622-2089-4609-862a-2f14c9ecc9e4)
+   
+3. Alerta de ingreso de nombre. Input vacío.
+4.  
