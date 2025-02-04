@@ -20,3 +20,15 @@ Esta versión es desarrollada por Harold Espinoza Rivas, estudiante del programa
    
  ![Image](https://github.com/user-attachments/assets/15718204-b46a-4271-b060-3525f3d54311)
 
+3. Agregar archivos al repositorio
+
+   ![Image](https://github.com/user-attachments/assets/efcffdd7-f8d1-4c24-8c3f-fdff4f830138)
+
+## App en Operación.
+La interfaz web de la aplicación fue propocionada como parte de los insumos del challenge. El estudiante desarrollador tiene la misión de generar el script
+de JS para poner en operación la app.
+
+1. Agregar amigos
+   
+
+4. 
